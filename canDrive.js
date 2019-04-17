@@ -1,6 +1,6 @@
-var first = "Adam";
-var last = "Sirkis";
-var age = 19;
+const first = "Adam";
+const last = "Sirkis";
+const age = 19;
 const min_age = 16;
 
 if (age >= min_age) {
