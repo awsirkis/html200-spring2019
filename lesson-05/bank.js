@@ -30,7 +30,7 @@ function bank() {
         }
         break;
       case "B":
-        prompt("Current Balance: ", balance);
+        prompt("Current Balance: $", balance);
         break;
     }
   } while (com != "Q");
